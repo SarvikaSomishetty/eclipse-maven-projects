@@ -1,1 +1,1 @@
-# ssh1
+# eclipse-maven-projects
